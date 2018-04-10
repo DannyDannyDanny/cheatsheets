@@ -625,6 +625,12 @@ echo $ans
 ```bash
 read -n 1 ans    # Just one character
 ```
+### Sleeping
+```bash
+sleep .3 # sleeps the program for 0.3 seconds
+sleep 3 # sleeps the program for 3 seconds
+sleep 30 # sleeps the program for 30 seconds
+```
 
 ### Special variables
 
